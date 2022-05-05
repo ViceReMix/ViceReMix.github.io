@@ -1,8 +1,8 @@
-<span id="a">Remix@vice.re</span>:<span id="b">~</span><span id="c">$</span> cd Vice Re Mix/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">info@vice.re</span>:<span id="b">~</span><span id="c">$</span> cd ViceReMix/<!-- kjsdfhkjdhsfkjdshfkj -->Welcome
+<span id="a">info@vice.re</span>:<span id="b">~</span><span id="c">$</span> freedom <!-- kjsdfhkjdhsfkjdshfkj -->ViceReMix.txt<br/><br/>
+Keep things simple, "<span id="k">Go Wild! Live Free!</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+Welcome! May the Wanderlust be with you <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> It's not about just seeing beautiful places. It's about seeing the beauty in every place and every person.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
