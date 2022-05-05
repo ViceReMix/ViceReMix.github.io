@@ -1,5 +1,5 @@
-<span id="a">info@vice.re</span>:<span id="b">~</span><span id="c">$</span> cd ViceReMix/<!-- kjsdfhkjdhsfkjdshfkj -->Welcome
-<span id="a">info@vice.re</span>:<span id="b">~</span><span id="c">$</span> sudo <!-- kjsdfhkjdhsfkjdshfkj -->ViceReMix.txt<br/><br/>
+<span id="a">remix@vice.re</span>:<span id="b">~</span><span id="c">$</span> cd ViceReMix/<!-- kjsdfhkjdhsfkjdshfkj -->Welcome
+<span id="a">remix@vice.re</span>:<span id="b">~</span><span id="c">$</span> sudo <!-- kjsdfhkjdhsfkjdshfkj -->ViceReMix.txt<br/><br/>
 Keep things simple, "<span id="k">Go Wild! Live Free!</span>". <!-- sjkfhskjf -->
 
 Welcome! May the Wanderlust be with you! <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> It's not about just seeing beautiful places. It's about seeing the beauty in every place and every person.</p>
