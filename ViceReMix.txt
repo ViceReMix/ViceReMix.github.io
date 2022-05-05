@@ -1,13 +1,10 @@
 <span id="a">info@vice.re</span>:<span id="b">~</span><span id="c">$</span> cd ViceReMix/<!-- kjsdfhkjdhsfkjdshfkj -->Welcome
-<span id="a">info@vice.re</span>:<span id="b">~</span><span id="c">$</span> freedom <!-- kjsdfhkjdhsfkjdshfkj -->ViceReMix.txt<br/><br/>
+<span id="a">info@vice.re</span>:<span id="b">~</span><span id="c">$</span> sudo <!-- kjsdfhkjdhsfkjdshfkj -->ViceReMix.txt<br/><br/>
 Keep things simple, "<span id="k">Go Wild! Live Free!</span>". <!-- sjkfhskjf -->
 
 Welcome! May the Wanderlust be with you! <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> It's not about just seeing beautiful places. It's about seeing the beauty in every place and every person.</p>
 <p>Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> We might have met somewhere , sometimes if that's the case drop me a mail. <a href="mailto:info@vice.re"> Email me Here</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> We might have met somewhere , if that's the case drop me a mail. <a href="mailto:info.websiteenglish@vice.re"> Email me Here</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Vous parlez français? <br><br><br>Vous pouvez écrire à cette adresse. <a href="mailto:info.websitefrench@vide.re"> Cliquez-ici!</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
-
-<p>Cheers!</p>
+<p>See you on the road!</p>
